@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers==4.46.1
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+tqdm==4.66.6
+tree_sitter_languages==1.10.2
+spacy==3.8.14
